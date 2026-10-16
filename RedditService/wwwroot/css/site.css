@@ -1,0 +1,30 @@
+﻿.topic-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.topic-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.topic-content {
+    margin-bottom: 10px;
+}
+
+.topic-details {
+    font-size: 14px;
+    color: #666;
+}
+
+.topic-theme {
+    margin-bottom: 5px;
+}
+
+.topic-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}

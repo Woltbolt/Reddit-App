@@ -1,0 +1,968 @@
+﻿@model IQueryable<Microsoft.WindowsAzure.Storage.Table.Topic>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="~/wwwroot/css/site.css" />
+</head>
+<body>
+    @if (!string.IsNullOrEmpty(ViewBag.trenutnaSlika))
+    {
+        <div>
+            <h2>@ViewBag.Message</h2> <img src="@ViewBag.trenutnaSlika" alt="Profile Pic" style="width: 100px; height:100px; margin-left: 400px; margin-top: -50px" />
+        </div>
+    }
+
+    <a href="/Home/EditProfile">EditProfile</a>
+    <br />
+    <a href="/Home/AddPost">Add post</a>
+
+
+    <h4>Your topics:</h4>
+    @if (Model != null)
+    {
+        foreach (var item in Model)
+        {
+            if (item.Objavio != ViewBag.CurrentUserEmail)
+            {
+                continue;
+            }
+            if (ViewBag.id == item.Id)
+            {
+                if (ViewBag.alllikes != null)
+                {
+                    foreach (var l in ViewBag.alllikes)
+                    {
+                        <p>lajkovo: @l.Ime @l.Prezime, tema: @l.Id_topic</p>
+                    }
+                }
+                else
+                {
+                    continue;
+                }
+                <p>Now...</p>
+                <div class="topic-comments">
+                    @ViewBag.objava
+                    @ViewBag.komentar
+                    @ViewBag.PorukaVazna
+
+                </div>
+                <p>Comments...</p>
+                if (ViewBag.allcomments != null)
+                {
+                    foreach (var i in ViewBag.allcomments)
+                    {
+                        <form action="/Home/Notifications" method="post">
+                            @if (@i.Naziv_Teme == "")
+                            {
+                                <div class="topic-card" style="margin-left: 5cm;">
+                                    <div>
+                                        <p>Komentar napisao: @i.Napisao</p>
+                                        <input name="komentar_napisao" value="@i.Napisao" type="hidden" />
+                                    </div>
+                                    <div>
+                                        <p>Odgovor: @i.Tekst</p>
+                                        <input name="tekst_komentara" value="@i.Tekst" type="hidden" />
+                                    </div>
+                                    <div>
+                                        <input name="id" value="@i.Id_objave" type="hidden" />
+                                    </div>
+                                    <div>
+                                        <input name="nameOfPost" value="@i.Naziv_Objave" type="hidden" />
+                                    </div>
+                                    <div>
+                                        <input name="publisher" value="@i.Objavu_objavio" type="hidden" />
+                                    </div>
+                                    <div>
+                                        <input name="id_komentara" value="@i.Id_komentara" type="hidden" />
+                                    </div>
+                                    <div>
+
+                                        <input name="naziv_teme" value="@i.Naziv_Teme" type="hidden" />
+
+                                    </div>
+                                    <div>
+                                        <input name="jedinstveni" value="@i.Jedinstveni_id" type="hidden" />
+                                        <p>RowKey: @i.Jedinstveni_id</p>
+                                    </div>
+
+                                    <form action="/Home/Notifications" method="post">
+                                        <div>
+                                            <div>
+                                                <input name="komentar_napisao" value="@i.Napisao" type="hidden" />
+                                            </div>
+                                            <div>
+                                                <input name="tekst_komentara" value="@i.Tekst" type="hidden" />
+                                            </div>
+                                            <div>
+                                                <input name="id" value="@i.Id_objave" type="hidden" />
+                                            </div>
+                                            <div>
+                                                <input name="nameOfPost" value="@i.Naziv_Objave" type="hidden" />
+                                            </div>
+                                            <div>
+                                                <input name="publisher" value="@i.Objavu_objavio" type="hidden" />
+                                            </div>
+                                            <div>
+                                                <input name="id_komentara" value="@i.Id_komentara" type="hidden" />
+                                            </div>
+                                            <div>
+
+                                                <input name="naziv_teme" value="@i.Naziv_Teme" type="hidden" />
+
+                                            </div>
+                                            <div>
+                                                <input name="jedinstveni" value="@i.Jedinstveni_id" type="hidden" />
+                                            </div>
+                                            <div>
+                                                <button name="action" value="delete" type="submit">Delete</button>
+                                            </div>
+                                        </div>
+                                    </form>
+
+
+                                </div>
+                            }
+                            else
+                            {
+                                <div class="topic-card">
+                                    <div>
+                                        <p>Komentar napisao: @i.Napisao</p>
+                                        <input name="komentar_napisao" value="@i.Napisao" type="hidden" />
+                                    </div>
+                                    <div>
+                                        <p>Text: @i.Tekst</p>
+                                        <input name="tekst_komentara" value="@i.Tekst" type="hidden" />
+                                    </div>
+                                    <div>
+                                        <input name="id" value="@i.Id_objave" type="hidden" />
+                                    </div>
+                                    <div>
+                                        <input name="nameOfPost" value="@i.Naziv_Objave" type="hidden" />
+                                    </div>
+                                    <div>
+                                        <input name="publisher" value="@i.Objavu_objavio" type="hidden" />
+                                    </div>
+                                    <div>
+                                        <input name="id_komentara" value="@i.Id_komentara" type="hidden" />
+                                    </div>
+                                    <div>
+                                        <p>Naziv teme:@i.Naziv_Teme</p>
+                                        <input name="naziv_teme" value="@i.Naziv_Teme" type="hidden" />
+
+
+                                    </div>
+                                    <div>
+                                        <button name="action" type="submit" value="reply">Reply</button>
+                                    </div>
+
+                                    <form action="/Home/Notifications" method="post">
+                                        <div>
+                                            <div>
+                                                <input name="komentar_napisao" value="@i.Napisao" type="hidden" />
+                                            </div>
+                                            <div>
+                                                <input name="tekst_komentara" value="@i.Tekst" type="hidden" />
+                                            </div>
+                                            <div>
+                                                <input name="id" value="@i.Id_objave" type="hidden" />
+                                            </div>
+                                            <div>
+                                                <input name="nameOfPost" value="@i.Naziv_Objave" type="hidden" />
+                                            </div>
+                                            <div>
+                                                <input name="publisher" value="@i.Objavu_objavio" type="hidden" />
+                                            </div>
+                                            <div>
+                                                <input name="id_komentara" value="@i.Id_komentara" type="hidden" />
+                                            </div>
+                                            <div>
+
+                                                <input name="naziv_teme" value="@i.Naziv_Teme" type="hidden" />
+
+                                            </div>
+                                            <div>
+                                                <input name="jedinstveni" value="@i.Jedinstveni_id" type="hidden" />
+                                            </div>
+                                            <div>
+                                                <button value="delete" name="action" type="submit">Delete</button>
+                                            </div>
+                                        </div>
+                                    </form>
+
+                                </div>
+                            }
+                        </form>
+                        if (ViewBag.Reply == "reply")
+                        {
+                            if (ViewBag.idkomentara == i.Id_komentara)
+                            {
+                                if (i.Naziv_Teme != "")
+                                {
+                                    <form action="/Home/Notifications" method="post">
+                                        <div>
+                                            <div>
+                                                <input name="komentar_napisao" value="@i.Napisao" type="hidden" />
+                                            </div>
+                                            <div>
+                                                <input name="tekst_komentara" value="@i.Tekst" type="hidden" />
+                                            </div>
+                                            <div>
+                                                <input name="id" value="@i.Id_objave" type="hidden" />
+                                            </div>
+                                            <div>
+                                                <input name="nameOfPost" value="@i.Naziv_Objave" type="hidden" />
+                                            </div>
+                                            <div>
+                                                <input name="publisher" value="@i.Objavu_objavio" type="hidden" />
+                                            </div>
+                                            <div>
+                                                <input name="id_komentara" value="@i.Id_komentara" type="hidden" />
+                                            </div>
+                                            <div>
+                                                <input name="naziv_teme" value="@i.Naziv_Teme" type="hidden" />
+                                            </div>
+                                            <textarea name="komentar" placeholder="Add a comment..." rows="3" cols="50"></textarea>
+                                            <button name="action" type="submit" value="replycomment">Reply comment</button>
+                                        </div>
+                                    </form>
+                                }
+                                else
+                                {
+                                    continue;
+                                }
+                            }
+                            else
+                            {
+                                continue;
+                            }
+                        }
+                    }
+                }
+                else if (ViewBag.allcomments == null)
+                {
+                    <p> Click "View all" to show!</p>
+                    <form action="/Home/Notifications" method="post">
+                        <div class="topic-title">
+                            <input name="nameOfPost" type="hidden" value="@item.Naslov" />
+                        </div>
+                        <div class="topic-details">
+                            <div class="topic-theme">
+                                <input name="topic" type="hidden" value="@item.Tema" />
+                            </div>
+                        </div>
+                        <div class="topic-details">
+                            <div class="topic-theme">
+                                <input type="hidden" name="publisher" value="@item.Objavio" />
+                            </div>
+                        </div>
+                        <div>
+                            <input type="hidden" name="id" value="@item.Id" />
+                        </div>
+                        <div>
+                            <button name="action" type="submit" value="viewcomments">view all</button>
+                        </div>
+                    </form>
+                    continue;
+                }
+                else if (ViewBag.allcomments == "")
+                {
+                    <p> No comments!</p>
+                    continue;
+                }
+            }
+            <form action="/Home/Notifications" method="post">
+                <div class="topic-card">
+                    <div class="topic-title">
+                        <strong>@item.Naslov</strong>
+                        <input name="nameOfPost" type="hidden" value="@item.Naslov" />
+                    </div>
+                    <div class="topic-content">
+                        @item.Tekst
+                    </div>
+                    <div class="topic-details">
+                        <div class="topic-theme">
+                            Topic: @item.Tema
+                            <input name="topic" type="hidden" value="@item.Tema" />
+                        </div>
+                    </div>
+                    <div class="topic-details">
+                        <div class="topic-theme">
+                            Publisher: @item.Objavio
+                            <input type="hidden" name="publisher" value="@item.Objavio" />
+                        </div>
+                    </div>
+                    <div>
+                        <input type="hidden" name="id" value="@item.Id" />
+                    </div>
+
+                    <div class="topic-comments">
+                        <textarea name="komentar" placeholder="Add a comment..." rows="3" cols="50"></textarea>
+                        <button name="action" type="submit" value="comment">Submit Comment</button>
+                    </div>
+                    <div class="topic-like">
+                        <button name="action" value="delete2" type="submit">Delete</button>
+                    </div>
+                    <div>
+                        <button name="action" type="submit" value="viewcomments">view all</button>
+                    </div>
+
+                </div>
+            </form>
+        }
+    }
+    else
+    {
+        <p>Model is empty.</p>
+    }
+
+
+    <form action="/Home/Topics" method="post">
+        <label for="themes">Topic:</label>
+        <select id="themes" name="themes">
+            <option value="games">Games</option>
+            <option value="technology">Technology</option>
+            <option value="movies_tv">Movies & TV</option>
+            <option value="arts">Arts</option>
+            <option value="business">Business</option>
+            <option value="places_travel">Places & Travel</option>
+            <option value="science">Science</option>
+            <option value="sport">Sport</option>
+            <option value="vehicle">Vehicle</option>
+        </select>
+        <input type="submit" value="Check" />
+    </form>
+    <p>@ViewBag.idkomentara</p>
+    <p>@ViewBag.naziteme</p>
+    <p>Selected topic: @TempData["all"]</p>
+    <h4>All Topics:</h4>
+    @if (Model != null)
+    {
+        foreach (var item in Model)
+        {
+
+            if (ViewBag.all == item.Tema)
+            {
+                if (item.Objavio == ViewBag.CurrentUserEmail)
+                {
+                    continue;
+                }
+                if (ViewBag.id == item.Id)
+                {
+                    if (ViewBag.alllikes != null)
+                    {
+                        foreach (var l in ViewBag.alllikes)
+                        {
+                            <p>lajkovo: @l.Ime @l.Prezime, tema: @l.Id_topic</p>
+                        }
+                    }
+                    else
+                    {
+                        continue;
+                    }
+                    <p>Now...</p>
+                    <div class="topic-comments">
+                        @ViewBag.objava
+                        @ViewBag.komentar
+                        @ViewBag.PorukaVazna
+                        @ViewBag.sub
+
+                    </div>
+                    <p>Comments...</p>
+                    if (ViewBag.allcomments != null)
+                    {
+                        foreach (var i in ViewBag.allcomments)
+                        {
+                            <form action="/Home/Notifications" method="post">
+                                @if (@i.Naziv_Teme == "")
+                                {
+                                    <div class="topic-card" style="margin-left: 5cm;">
+                                        <div>
+                                            <p>Komentar napisao: @i.Napisao</p>
+                                            <input name="komentar_napisao" value="@i.Napisao" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <p>Odgovor: @i.Tekst</p>
+                                            <input name="tekst_komentara" value="@i.Tekst" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <input name="id" value="@i.Id_objave" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <input name="nameOfPost" value="@i.Naziv_Objave" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <input name="publisher" value="@i.Objavu_objavio" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <input name="id_komentara" value="@i.Id_komentara" type="hidden" />
+                                        </div>
+                                        <div>
+
+                                            <input name="naziv_teme" value="@i.Naziv_Teme" type="hidden" />
+
+                                        </div>
+                                        <div>
+                                            <input name="jedinstveni" value="@i.Jedinstveni_id" type="hidden" />
+                                            <p>RowKey: @i.Jedinstveni_id</p>
+                                        </div>
+                                        @if (i.Napisao == ViewBag.trenutniemail)
+                                        {
+                                            <form action="/Home/Notifications" method="post">
+                                                <div>
+                                                    <div>
+                                                        <input name="komentar_napisao" value="@i.Napisao" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="tekst_komentara" value="@i.Tekst" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="id" value="@i.Id_objave" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="nameOfPost" value="@i.Naziv_Objave" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="publisher" value="@i.Objavu_objavio" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="id_komentara" value="@i.Id_komentara" type="hidden" />
+                                                    </div>
+                                                    <div>
+
+                                                        <input name="naziv_teme" value="@i.Naziv_Teme" type="hidden" />
+
+                                                    </div>
+                                                    <div>
+                                                        <input name="jedinstveni" value="@i.Jedinstveni_id" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <button name="action" value="delete" type="submit">Delete</button>
+                                                    </div>
+                                                </div>
+                                            </form>
+                                        }
+
+                                        <h1>@ViewBag.Rk</h1>
+                                    </div>
+                                }
+                                else
+                                {
+                                    <div class="topic-card">
+                                        <div>
+                                            <p>Komentar napisao: @i.Napisao</p>
+                                            <input name="komentar_napisao" value="@i.Napisao" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <p>Text: @i.Tekst</p>
+                                            <input name="tekst_komentara" value="@i.Tekst" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <input name="id" value="@i.Id_objave" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <input name="nameOfPost" value="@i.Naziv_Objave" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <input name="publisher" value="@i.Objavu_objavio" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <input name="id_komentara" value="@i.Id_komentara" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <p>Naziv teme:@i.Naziv_Teme</p>
+                                            <input name="naziv_teme" value="@i.Naziv_Teme" type="hidden" />
+
+
+                                        </div>
+                                        <div>
+                                            <button name="action" type="submit" value="reply">Reply</button>
+                                        </div>
+                                        @if (i.Napisao == ViewBag.trenutniemail)
+                                        {
+                                            <form action="/Home/Notifications" method="post">
+                                                <div>
+                                                    <div>
+                                                        <input name="komentar_napisao" value="@i.Napisao" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="tekst_komentara" value="@i.Tekst" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="id" value="@i.Id_objave" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="nameOfPost" value="@i.Naziv_Objave" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="publisher" value="@i.Objavu_objavio" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="id_komentara" value="@i.Id_komentara" type="hidden" />
+                                                    </div>
+                                                    <div>
+
+                                                        <input name="naziv_teme" value="@i.Naziv_Teme" type="hidden" />
+
+                                                    </div>
+                                                    <div>
+                                                        <input name="jedinstveni" value="@i.Jedinstveni_id" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <button value="delete" name="action" type="submit">Delete</button>
+                                                    </div>
+                                                </div>
+                                            </form>
+                                        }
+                                    </div>
+                                }
+                            </form>
+                            if (ViewBag.Reply == "reply")
+                            {
+                                if (ViewBag.idkomentara == i.Id_komentara)
+                                {
+                                    if (i.Naziv_Teme != "")
+                                    {
+                                        <form action="/Home/Notifications" method="post">
+                                            <div>
+                                                <div>
+                                                    <input name="komentar_napisao" value="@i.Napisao" type="hidden" />
+                                                </div>
+                                                <div>
+                                                    <input name="tekst_komentara" value="@i.Tekst" type="hidden" />
+                                                </div>
+                                                <div>
+                                                    <input name="id" value="@i.Id_objave" type="hidden" />
+                                                </div>
+                                                <div>
+                                                    <input name="nameOfPost" value="@i.Naziv_Objave" type="hidden" />
+                                                </div>
+                                                <div>
+                                                    <input name="publisher" value="@i.Objavu_objavio" type="hidden" />
+                                                </div>
+                                                <div>
+                                                    <input name="id_komentara" value="@i.Id_komentara" type="hidden" />
+                                                </div>
+                                                <div>
+                                                    <input name="naziv_teme" value="@i.Naziv_Teme" type="hidden" />
+                                                </div>
+                                                <textarea name="komentar" placeholder="Add a comment..." rows="3" cols="50"></textarea>
+                                                <button name="action" type="submit" value="replycomment">Reply comment</button>
+                                            </div>
+                                        </form>
+                                    }
+                                    else
+                                    {
+                                        continue;
+                                    }
+                                }
+                                else
+                                {
+                                    continue;
+                                }
+                            }
+                        }
+                    }
+                    else if (ViewBag.allcomments == null)
+                    {
+                        <p> Click "View all" to show!</p>
+                        <form action="/Home/Notifications" method="post">
+                            <div class="topic-title">
+                                <input name="nameOfPost" type="hidden" value="@item.Naslov" />
+                            </div>
+                            <div class="topic-details">
+                                <div class="topic-theme">
+                                    <input name="topic" type="hidden" value="@item.Tema" />
+                                </div>
+                            </div>
+                            <div class="topic-details">
+                                <div class="topic-theme">
+                                    <input type="hidden" name="publisher" value="@item.Objavio" />
+                                </div>
+                            </div>
+                            <div>
+                                <input type="hidden" name="id" value="@item.Id" />
+                            </div>
+                            <div>
+                                <button name="action" type="submit" value="viewcomments">view all</button>
+                            </div>
+                        </form>
+                        continue;
+                    }
+                    else if (ViewBag.allcomments == "")
+                    {
+                        <p> No comments!</p>
+                        continue;
+                    }
+                }
+                <form action="/Home/Notifications" method="post">
+                    <div class="topic-card">
+                        <div class="topic-title">
+                            <strong>@item.Naslov</strong>
+                            <input name="nameOfPost" type="hidden" value="@item.Naslov" />
+                        </div>
+                        <div class="topic-content">
+                            @item.Tekst
+                        </div>
+                        <div class="topic-details">
+                            <div class="topic-theme">
+                                Topic: @item.Tema
+                                <input name="topic" type="hidden" value="@item.Tema" />
+                            </div>
+                        </div>
+                        <div class="topic-details">
+                            <div class="topic-theme">
+                                Publisher: @item.Objavio
+                                <input type="hidden" name="publisher" value="@item.Objavio" />
+                            </div>
+                        </div>
+                        <div>
+                            <input type="hidden" name="id" value="@item.Id" />
+                        </div>
+                        <div class="topic-comments">
+                            <textarea name="komentar" placeholder="Add a comment..." rows="3" cols="50"></textarea>
+                            <button name="action" type="submit" value="comment">Submit Comment</button>
+                        </div>
+                        <div class="topic-like">
+                            <button name="action" type="submit" value="like">Like</button>
+                        </div>
+                        <div>
+                            <button name="action" type="submit" value="viewcomments">view all</button>
+                        </div>
+                    </div>
+                </form>
+
+
+            }
+            else if (ViewBag.all == null)
+            {
+                if (item.Objavio == ViewBag.CurrentUserEmail)
+                {
+                    continue;
+                }
+                if (ViewBag.id == item.Id)
+                {
+                    if (ViewBag.sub != "")
+                    {
+                        @ViewBag.sub
+                        <p> Click "View all" to show!</p>
+                        <form action="/Home/Notifications" method="post">
+                            <div class="topic-title">
+                                <input name="nameOfPost" type="hidden" value="@item.Naslov" />
+                            </div>
+                            <div class="topic-details">
+                                <div class="topic-theme">
+                                    <input name="topic" type="hidden" value="@item.Tema" />
+                                </div>
+                            </div>
+                            <div class="topic-details">
+                                <div class="topic-theme">
+                                    <input type="hidden" name="publisher" value="@item.Objavio" />
+                                </div>
+                            </div>
+                            <div>
+                                <input type="hidden" name="id" value="@item.Id" />
+                            </div>
+                            <div>
+                                <button name="action" type="submit" value="viewcomments">view all</button>
+                            </div>
+                        </form>
+                        continue;
+
+                    }
+                    if (ViewBag.alllikes != null)
+                    {
+                        foreach (var l in ViewBag.alllikes)
+                        {
+                            <p>lajkovo: @l.Ime @l.Prezime, tema: @l.Id_topic</p>
+                        }
+                    }
+                    else
+                    {
+                        continue;
+                    }
+                    <p>Now...</p>
+                    <div class="topic-comments">
+                        @ViewBag.objava
+                        @ViewBag.komentar
+                        @ViewBag.PorukaVazna
+
+
+                    </div>
+                    <p>Comments...</p>
+                    if (ViewBag.allcomments != null)
+                    {
+                        foreach (var i in ViewBag.allcomments)
+                        {
+                            <form action="/Home/Notifications" method="post">
+                                @if (@i.Naziv_Teme == "")
+                                {
+                                    <div class="topic-card" style="margin-left: 5cm;">
+                                        <div>
+                                            <p>Komentar napisao: @i.Napisao</p>
+                                            <input name="komentar_napisao" value="@i.Napisao" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <p>Odgovor: @i.Tekst</p>
+                                            <input name="tekst_komentara" value="@i.Tekst" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <input name="id" value="@i.Id_objave" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <input name="nameOfPost" value="@i.Naziv_Objave" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <input name="publisher" value="@i.Objavu_objavio" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <input name="id_komentara" value="@i.Id_komentara" type="hidden" />
+                                        </div>
+                                        <div>
+
+                                            <input name="naziv_teme" value="@i.Naziv_Teme" type="hidden" />
+
+                                        </div>
+                                        <div>
+                                            <input name="jedinstveni" value="@i.Jedinstveni_id" type="hidden" />
+                                            <p>RowKey: @i.Jedinstveni_id</p>
+                                        </div>
+                                        @if (i.Napisao == ViewBag.trenutniemail)
+                                        {
+                                            <form action="/Home/Notifications" method="post">
+                                                <div>
+                                                    <div>
+                                                        <input name="komentar_napisao" value="@i.Napisao" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="tekst_komentara" value="@i.Tekst" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="id" value="@i.Id_objave" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="nameOfPost" value="@i.Naziv_Objave" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="publisher" value="@i.Objavu_objavio" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="id_komentara" value="@i.Id_komentara" type="hidden" />
+                                                    </div>
+                                                    <div>
+
+                                                        <input name="naziv_teme" value="@i.Naziv_Teme" type="hidden" />
+
+                                                    </div>
+                                                    <div>
+                                                        <input name="jedinstveni" value="@i.Jedinstveni_id" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <button name="action" value="delete" type="submit">Delete</button>
+                                                    </div>
+                                                </div>
+                                            </form>
+                                        }
+
+                                        <h1>@ViewBag.Rk</h1>
+                                    </div>
+                                }
+                                else
+                                {
+                                    <div class="topic-card">
+                                        <div>
+                                            <p>Komentar napisao: @i.Napisao</p>
+                                            <input name="komentar_napisao" value="@i.Napisao" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <p>Text: @i.Tekst</p>
+                                            <input name="tekst_komentara" value="@i.Tekst" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <input name="id" value="@i.Id_objave" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <input name="nameOfPost" value="@i.Naziv_Objave" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <input name="publisher" value="@i.Objavu_objavio" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <input name="id_komentara" value="@i.Id_komentara" type="hidden" />
+                                        </div>
+                                        <div>
+                                            <p>Naziv teme:@i.Naziv_Teme</p>
+                                            <input name="naziv_teme" value="@i.Naziv_Teme" type="hidden" />
+
+
+                                        </div>
+                                        <div>
+                                            <button name="action" type="submit" value="reply">Reply</button>
+                                        </div>
+                                        @if (i.Napisao == ViewBag.trenutniemail)
+                                        {
+                                            <form action="/Home/Notifications" method="post">
+                                                <div>
+                                                    <div>
+                                                        <input name="komentar_napisao" value="@i.Napisao" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="tekst_komentara" value="@i.Tekst" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="id" value="@i.Id_objave" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="nameOfPost" value="@i.Naziv_Objave" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="publisher" value="@i.Objavu_objavio" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <input name="id_komentara" value="@i.Id_komentara" type="hidden" />
+                                                    </div>
+                                                    <div>
+
+                                                        <input name="naziv_teme" value="@i.Naziv_Teme" type="hidden" />
+
+                                                    </div>
+                                                    <div>
+                                                        <input name="jedinstveni" value="@i.Jedinstveni_id" type="hidden" />
+                                                    </div>
+                                                    <div>
+                                                        <button value="delete" name="action" type="submit">Delete</button>
+                                                    </div>
+                                                </div>
+                                            </form>
+                                        }
+                                    </div>
+                                }
+                            </form>
+                            if (ViewBag.Reply == "reply")
+                            {
+                                if (ViewBag.idkomentara == i.Id_komentara)
+                                {
+                                    if (i.Naziv_Teme != "")
+                                    {
+                                        <form action="/Home/Notifications" method="post">
+                                            <div>
+                                                <div>
+                                                    <input name="komentar_napisao" value="@i.Napisao" type="hidden" />
+                                                </div>
+                                                <div>
+                                                    <input name="tekst_komentara" value="@i.Tekst" type="hidden" />
+                                                </div>
+                                                <div>
+                                                    <input name="id" value="@i.Id_objave" type="hidden" />
+                                                </div>
+                                                <div>
+                                                    <input name="nameOfPost" value="@i.Naziv_Objave" type="hidden" />
+                                                </div>
+                                                <div>
+                                                    <input name="publisher" value="@i.Objavu_objavio" type="hidden" />
+                                                </div>
+                                                <div>
+                                                    <input name="id_komentara" value="@i.Id_komentara" type="hidden" />
+                                                </div>
+                                                <div>
+                                                    <input name="naziv_teme" value="@i.Naziv_Teme" type="hidden" />
+                                                </div>
+                                                <textarea name="komentar" placeholder="Add a comment..." rows="3" cols="50"></textarea>
+                                                <button name="action" type="submit" value="replycomment">Reply comment</button>
+                                            </div>
+                                        </form>
+                                    }
+                                    else
+                                    {
+                                        continue;
+                                    }
+                                }
+                                else
+                                {
+                                    continue;
+                                }
+                            }
+                        }
+                    }
+                    else if (ViewBag.allcomments == null)
+                    {
+                        <p> Click "View all" to show!</p>
+                        <form action="/Home/Notifications" method="post">
+                            <div class="topic-title">
+                                <input name="nameOfPost" type="hidden" value="@item.Naslov" />
+                            </div>
+                            <div class="topic-details">
+                                <div class="topic-theme">
+                                    <input name="topic" type="hidden" value="@item.Tema" />
+                                </div>
+                            </div>
+                            <div class="topic-details">
+                                <div class="topic-theme">
+                                    <input type="hidden" name="publisher" value="@item.Objavio" />
+                                </div>
+                            </div>
+                            <div>
+                                <input type="hidden" name="id" value="@item.Id" />
+                            </div>
+                            <div>
+                                <button name="action" type="submit" value="viewcomments">view all</button>
+                            </div>
+                        </form>
+                        continue;
+                    }
+                    else if (ViewBag.allcomments == "")
+                    {
+                        <p> No comments!</p>
+                        continue;
+                    }
+                }
+                <form action="/Home/Notifications" method="Post">
+                    <div class="topic-card">
+                        <div class="topic-title">
+                            <strong>@item.Naslov</strong>
+                            <input name="nameOfPost" type="hidden" value="@item.Naslov" />
+                        </div>
+                        <div class="topic-content">
+                            @item.Tekst
+                        </div>
+                        <div class="topic-details">
+                            <div class="topic-theme">
+                                Topic: @item.Tema
+                                <input name="topic" type="hidden" value="@item.Tema" />
+                            </div>
+                        </div>
+
+                        <div class="topic-details">
+
+                            <div class="topic-theme">
+                                Publisher: @item.Objavio
+
+                                <button name="action" type="submit" value="subscribe">Subscribe</button>    <button name="action" type="submit" value="unsubscribe">Unsubscribe</button>
+                                <input type="hidden" name="publisher" value="@item.Objavio" />
+                            </div>
+                        </div>
+                        <div>
+                            <input type="hidden" name="id" value="@item.Id" />
+                        </div>
+                        <div class="topic-comments">
+                            <textarea name="komentar" placeholder="Add a comment..." rows="3" cols="50"></textarea>
+                            <button name="action" type="submit" value="comment">Submit Comment</button>
+                        </div>
+                        <div class="topic-like">
+                            <button name="action" type="submit" value="like">Like</button>
+                        </div>
+                        <div>
+                            <button name="action" type="submit" value="viewcomments">view all</button>
+                        </div>
+
+                    </div>
+                </form>
+            }
+        }
+    }
+    else
+    {
+        <p>Model is empty.</p>
+    }
+</body>
+</html>
+

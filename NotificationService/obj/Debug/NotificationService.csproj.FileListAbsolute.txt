@@ -1,0 +1,66 @@
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\bin\Debug\NotificationService.dll.config
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\bin\Debug\NotificationService.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\bin\Debug\NotificationService.pdb
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\bin\Debug\AzureTable.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\bin\Debug\MonAgentListener.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\bin\Debug\AzureTable.pdb
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\bin\Debug\AzureTable.dll.config
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\obj\Debug\NotificationService.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\obj\Debug\NotificationService.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\obj\Debug\NotificationService.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\obj\Debug\NotificationService.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\NotificationService\obj\Debug\NotificationService.pdb
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\NotificationService.dll.config
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\NotificationService.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\NotificationService.pdb
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\AzureTable.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\MonAgentListener.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\AzureTable.pdb
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\AzureTable.dll.config
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\obj\Debug\NotificationService.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\obj\Debug\NotificationService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\obj\Debug\NotificationService.csproj.CopyComplete
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\obj\Debug\NotificationService.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\NotificationService\obj\Debug\NotificationService.pdb
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\NotificationService.dll.config
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\NotificationService.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\NotificationService.pdb
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\AzureTable.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\MonAgentListener.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\AzureTable.pdb
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\AzureTable.dll.config
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\obj\Debug\NotificationService.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\obj\Debug\NotificationService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\obj\Debug\NotificationService.csproj.CopyComplete
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\obj\Debug\NotificationService.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\NotificationService\obj\Debug\NotificationService.pdb

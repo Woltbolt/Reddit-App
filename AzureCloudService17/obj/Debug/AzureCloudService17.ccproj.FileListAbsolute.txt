@@ -1,0 +1,586 @@
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\bin\Debug\ServiceDefinition.csdef
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Antlr3.Runtime.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Antlr3.Runtime.pdb
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\MonAgentListener.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Newtonsoft.Json.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Newtonsoft.Json.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\RedditService.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\RedditService.dll.config
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\RedditService.pdb
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csc.exe
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csc.exe.config
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csc.rsp
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csi.exe
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csi.exe.config
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csi.rsp
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.AppContext.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Console.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.Compression.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Claims.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.ValueTuple.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\vbc.exe
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\vbc.exe.config
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\vbc.rsp
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Helpers.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Helpers.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Mvc.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Mvc.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Optimization.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Optimization.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Razor.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Razor.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\WebGrease.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Azure.Core.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Azure.Core.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\AzureTable.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\AzureTable.dll.config
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\AzureTable.pdb
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Buffers.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Buffers.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Memory.Data.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Memory.Data.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Memory.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Memory.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Numerics.Vectors.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Numerics.Vectors.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Text.Encodings.Web.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Text.Encodings.Web.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Text.Json.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Text.Json.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.ValueTuple.dll
+C:\Users\Korisnik\source\repos\AzureCloudService17\AzureCloudService17\obj\Debug\RedditService\bin\System.ValueTuple.xml
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\bin\Debug\ServiceDefinition.csdef
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Antlr3.Runtime.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Antlr3.Runtime.pdb
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\AzureTable.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\AzureTable.dll.config
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\AzureTable.pdb
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\MonAgentListener.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Newtonsoft.Json.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Newtonsoft.Json.xml
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\RedditService.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\RedditService.dll.config
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\RedditService.pdb
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csc.exe
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csc.exe.config
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csc.rsp
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csi.exe
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csi.exe.config
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csi.rsp
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.AppContext.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Console.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.Compression.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Claims.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.ValueTuple.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\vbc.exe
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\vbc.exe.config
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\vbc.rsp
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Helpers.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Helpers.xml
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Mvc.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Mvc.xml
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Optimization.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Optimization.xml
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Razor.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Razor.xml
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.xml
+C:\Users\Altitude\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\WebGrease.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\bin\Debug\ServiceDefinition.csdef
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Antlr3.Runtime.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Antlr3.Runtime.pdb
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\AzureTable.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\AzureTable.dll.config
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\AzureTable.pdb
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\MonAgentListener.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Newtonsoft.Json.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Newtonsoft.Json.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\RedditService.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\RedditService.dll.config
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\RedditService.pdb
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csc.exe
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csc.exe.config
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csc.rsp
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csi.exe
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csi.exe.config
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csi.rsp
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.AppContext.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Console.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.Compression.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Claims.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.ValueTuple.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\vbc.exe
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\vbc.exe.config
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\vbc.rsp
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Helpers.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Helpers.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Mvc.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Mvc.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Optimization.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Optimization.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Razor.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Razor.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\WebGrease.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\bin\Debug\ServiceDefinition.csdef
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Antlr3.Runtime.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Antlr3.Runtime.pdb
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\AzureTable.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\AzureTable.dll.config
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\AzureTable.pdb
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\MonAgentListener.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Newtonsoft.Json.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Newtonsoft.Json.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\NotificationService.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\NotificationService.dll.config
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\NotificationService.pdb
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\RedditService.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\RedditService.dll.config
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\RedditService.pdb
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csc.exe
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csc.exe.config
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csc.rsp
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csi.exe
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csi.exe.config
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csi.rsp
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.AppContext.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Console.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.Compression.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Claims.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.ValueTuple.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\vbc.exe
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\vbc.exe.config
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\vbc.rsp
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Helpers.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Helpers.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Mvc.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Mvc.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Optimization.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Optimization.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Razor.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Razor.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.xml
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\WebGrease.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\AzureTable.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\AzureTable.pdb
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\MonAgentListener.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\Newtonsoft.Json.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\NotificationService.dll
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\NotificationService.dll.config
+C:\Users\Korisnik\Desktop\cloud_projekat\komentaLajk_cloud\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\NotificationService.pdb
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\bin\Debug\ServiceDefinition.csdef
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\AzureTable.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\AzureTable.dll.config
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\AzureTable.pdb
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\MonAgentListener.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\NotificationService.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\NotificationService.dll.config
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\NotificationService.pdb
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\RedditService.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\RedditService.dll.config
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\RedditService.pdb
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csc.exe
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csi.exe
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\WebGrease.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\AzureTable.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\AzureTable.pdb
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\Microsoft.WindowsAzure.Storage.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\MonAgentListener.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\NotificationService.dll
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\NotificationService.dll.config
+C:\Users\User\Desktop\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\NotificationService.pdb
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\bin\Debug\ServiceDefinition.csdef
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\AzureTable.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\AzureTable.dll.config
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\AzureTable.pdb
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\MonAgentListener.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\NotificationService.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\NotificationService.dll.config
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\NotificationService.pdb
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\RedditService.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\RedditService.dll.config
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\RedditService.pdb
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\RedditService\bin\WebGrease.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\AzureTable.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\AzureTable.pdb
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\Microsoft.WindowsAzure.Storage.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\MonAgentListener.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\NotificationService.dll
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\NotificationService.dll.config
+C:\Users\User\Desktop\Desktop Files\CloudFullProjekat\cr\cloud_projekat\AzureCloudService17\obj\Debug\NotificationService\NotificationService.pdb

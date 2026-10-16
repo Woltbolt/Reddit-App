@@ -1,0 +1,101 @@
+﻿@{
+    ViewBag.Title = "AddPost";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+            text-align: center;
+            padding-top: 50px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        form {
+            max-width: 500px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+            color: #333;
+        }
+
+        select, input[type="text"], textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+
+        button[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+            button[type="submit"]:hover {
+                background-color: #45a049;
+            }
+    </style>
+</head>
+<body>
+
+    <h2>@ViewBag.Title</h2>
+
+    <form action="/Home/Add" method="post" enctype="multipart/form-data">
+        <div>
+            <h4>Nova tema:</h4>
+            <label for="themesAdd">Tema:</label>
+            <select id="themesAdd" name="tema" required>
+                <option value="Games">Games</option>
+                <option value="Technology">Technology</option>
+                <option value="Movies">Movies & TV</option>
+                <option value="Arts">Arts</option>
+                <option value="Business">Business</option>
+                <option value="Places">Places</option>
+                <option value="Science">Science</option>
+                <option value="Sport">Sport</option>
+                <option value="Vehicle">Vehicle</option>
+            </select>
+        </div>
+        <div>
+            <label for="naslov">Naslov:</label>
+            <input type="text" id="naslov" name="naslov" required>
+        </div>
+        <div>
+            <label for="tekst">Tekst:</label><br />
+            <textarea id="tekst" name="tekst" rows="4" cols="50" required></textarea>
+        </div>
+
+        <div>
+            <br />
+            <button type="submit">Objavi</button>
+        </div>
+    </form>
+
+</body>
+</html>

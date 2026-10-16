@@ -1,0 +1,116 @@
+﻿@{
+    ViewBag.Title = "Registracija!";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+
+        h2 {
+            color: #333;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        form {
+            max-width: 400px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+            color: #333;
+        }
+
+        input[type="text"],
+        input[type="password"],
+        input[type="email"],
+        input[type="file"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+
+        button[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+            button[type="submit"]:hover {
+                background-color: #45a049;
+            }
+    </style>
+</head>
+<body>
+
+    <h2>@ViewBag.Title</h2>
+
+    <form action="@Url.Action("Register", "Home")" method="post" enctype="multipart/form-data">
+        @Html.AntiForgeryToken() <!-- Add Anti-Forgery Token for security -->
+        <div>
+            <label for="ime">Ime:</label>
+            <input type="text" id="ime" name="ime" required>
+        </div>
+        <div>
+            <label for="prezime">Prezime:</label>
+            <input type="text" id="prezime" name="prezime" required>
+        </div>
+        <div>
+            <label for="adresa">Adresa:</label>
+            <input type="text" id="adresa" name="adresa" required>
+        </div>
+        <div>
+            <label for="grad">Grad:</label>
+            <input type="text" id="grad" name="grad" required>
+        </div>
+        <div>
+            <label for="drzava">Država:</label>
+            <input type="text" id="drzava" name="drzava" required>
+        </div>
+        <div>
+            <label for="telefon">Broj telefona:</label>
+            <input type="text" id="telefon" name="telefon" required>
+        </div>
+        <div>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+        </div>
+        <div>
+            <label for="lozinka">Lozinka:</label>
+            <input type="password" id="lozinka" name="lozinka" required>
+        </div>
+        <div>
+            <label for="slika">Slika:</label>
+            <input type="file" id="slika" name="slika" required>
+        </div>
+        <div>
+            <button type="submit">Registruj se</button>
+        </div>
+    </form>
+
+</body>
+</html>

@@ -1,0 +1,135 @@
+﻿@{
+    ViewBag.Title = "Edit Profile!";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+
+        h2 {
+            color: #333;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .image-container {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        img {
+            max-width: 200px;
+            max-height: 200px;
+            border-radius: 50%;
+        }
+
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: 20px auto;
+            max-width: 600px;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+            .form-group label {
+                display: block;
+                margin-bottom: 5px;
+                font-weight: bold;
+            }
+
+            .form-group input[type="text"],
+            .form-group input[type="file"],
+            .form-group select {
+                width: 100%;
+                padding: 10px;
+                box-sizing: border-box;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                margin-top: 4px;
+            }
+
+        button[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            float: right;
+        }
+
+            button[type="submit"]:hover {
+                background-color: #45a049;
+            }
+    </style>
+</head>
+<body>
+
+    <h2>@ViewBag.Title</h2>
+
+    @if (!string.IsNullOrEmpty(ViewBag.ImageUrl))
+    {
+        <div class="image-container">
+            <img src="@ViewBag.ImageUrl" alt="Profile Image">
+        </div>
+    }
+
+    <form action="/Home/UpdatedUser" method="post">
+        <div class="form-group">
+            <label for="ime">Name</label>
+            <input required type="text" id="ime" name="ime" value="@ViewBag.Message.FirstName">
+        </div>
+        <div class="form-group">
+            <label for="prezime">Surname</label>
+            <input required type="text" id="prezime" name="prezime" value="@ViewBag.Message.LastName">
+        </div>
+        <div class="form-group">
+            <label for="adresa">Address</label>
+            <input required type="text" id="adresa" name="adresa" value="@ViewBag.Message.Address">
+        </div>
+        <div class="form-group">
+            <label for="grad">City</label>
+            <input required type="text" id="grad" name="grad" value="@ViewBag.Message.City">
+        </div>
+        <div class="form-group">
+            <label for="drzava">Country</label>
+            <input required type="text" id="drzava" name="drzava" value="@ViewBag.Message.Country">
+        </div>
+        <div class="form-group">
+            <label for="telefon">Phone number</label>
+            <input required type="text" id="telefon" name="telefon" value="@ViewBag.Message.PhoneNumber">
+        </div>
+        <div class="form-group">
+            <label for="email">Email</label>
+            <input required type="text" id="email" name="email" value="@ViewBag.Message.Email" disabled>
+        </div>
+        <div class="form-group">
+            <label for="sifra">Password</label>
+            <input required type="text" id="sifra" name="sifra" value="@ViewBag.Message.Password">
+        </div>
+        <div class="form-group">
+            <label for="image">Image</label>
+            <input type="file" id="image" name="image" value="@ViewBag.Message.Image">
+        </div>
+        <div class="form-group">
+            <button type="submit">Edit</button>
+        </div>
+    </form>
+
+</body>
+</html>

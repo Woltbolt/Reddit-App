@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34829.251
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AzureCloudService17", "AzureCloudService17\AzureCloudService17.ccproj", "{372B845E-BE55-498A-BFF6-975CB2CC5873}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedditService", "RedditService\RedditService.csproj", "{13EC8627-3760-4DF9-8361-DF77C068B2F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureTableStorage", "AzureTable\AzureTableStorage.csproj", "{74B7BD53-0FD2-4A5F-B6B6-5B40C0C5BE23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationService", "NotificationService\NotificationService.csproj", "{D70097F5-6215-4898-9AE1-040F61060816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{372B845E-BE55-498A-BFF6-975CB2CC5873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372B845E-BE55-498A-BFF6-975CB2CC5873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372B845E-BE55-498A-BFF6-975CB2CC5873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372B845E-BE55-498A-BFF6-975CB2CC5873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13EC8627-3760-4DF9-8361-DF77C068B2F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EC8627-3760-4DF9-8361-DF77C068B2F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EC8627-3760-4DF9-8361-DF77C068B2F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EC8627-3760-4DF9-8361-DF77C068B2F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74B7BD53-0FD2-4A5F-B6B6-5B40C0C5BE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B7BD53-0FD2-4A5F-B6B6-5B40C0C5BE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B7BD53-0FD2-4A5F-B6B6-5B40C0C5BE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B7BD53-0FD2-4A5F-B6B6-5B40C0C5BE23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D70097F5-6215-4898-9AE1-040F61060816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70097F5-6215-4898-9AE1-040F61060816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70097F5-6215-4898-9AE1-040F61060816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70097F5-6215-4898-9AE1-040F61060816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D59E98A-CD08-436B-80EA-51CE2A5E187B}
+	EndGlobalSection
+EndGlobal
